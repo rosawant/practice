@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
+Roshan Sawant
++91-9595439221
+roshansawant70@yahoo.com
+Objective
+To work in a challenging and intellectually stimulating organization that provides ample opportunities to learn, lead, and contribute for achieving personal and organizational objectives.
+Career Snapshot
+Goal oriented professional with 2.7 years of work experience.
+Presently working with  Vuclip Ind Pvt. Ltd. as Reliability Engineer.
+Experienced with Linux Administrator .
 
-You can use the [editor on GitHub](https://github.com/rosawant/practice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Skills
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Version Control : Git
+Web/Application Server: Nginx, Apache
+Database: MySQL
+Programming Language: Shell Scripting, Python
+Cloud Service: AWS
+System Administrator:Linux, Ubuntu, RedHat
+DevOps Tools: Nagios, Git, GitHub,Nginx
+Monitoring Tools: Nagios, Icinga, Jira, Check MK
+Experience
 
-### Markdown
+Vuclip Ind Pvt Ltd, Pune - Reliability Engineer
+July 2016 - PRESENT 	 	
+Responsible to manage continuous integration and deployment using Jenkins.
+Configure and create alerts scripts  with Shell/Python in icinga/nagios.
+Responsible to deploy code using git.
+Optimize and configure nginx web server and load balancing.
+Configuring and Maintaining Apache Tomcat Instances.	
+User management, Package management, Job scheduling.	
+Automate administrative tasks through scripting and documenting with jira confluence.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Saba Software, Pune - Consultant-Cloud Operation
+DEC 2015 - July 2016
+Involved in problem determination using application and error logs.
+Administration skills in JBoss, Tomcat and Apache infrastructure support.
+Created cron jobs and shell scripts to take regular thread dumps and log 	rotations.
+Creating host and clientVM templates and cloning.
+Creating cluster in VMware
+Configuring High Availability (HA) ,DRS.
+Perform incident/alert troubleshooting, problem analysis, and provide high 	quality solutions to technical issues and service request
+Develop automation scripts- shell
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Saba Software, Pune - Cloud Ops Engineer
+JUN 2014 - DEC 2015	
+Administration skills in JBoss, Tomcat and Apache infrastructure support.
+Maintaining the functionality/availability Cloud servers.
+Fault handling (identifying and responding to faults on Saba systems and 	networks)
+Liaising with the Support, Consulting and Engineering teams to troubleshoot 	the major issues on the different products of SABA like LMS, SabaMeeting, Comartis, HCS etc.
+Leading the maintenances carried out in the local teams such as Data Centre 	Migrations, Performance tuning for the Application servers for the 	Customer’s Multi-tenant environment. 	
+Creation of node wise URL of particular host.
+Experience on VMWare and load balancer (Big-IP F5)
+Experience in using secured remote access tools (e.g. RDP, SSH/Putty) in 	managing Windows or Linux servers remotely.
+Configuring/scheduling jobs to automate task through Visual Cron automation tool.
+Managing storage systems and cluster system.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Education	
+BE in Computer Engineering (2013) from Amravati University with 64%
+10+2 with Mathematics (2008) from R.R Lahoti College, Morshi with 69%
+High School (2006) from Amravati Board with 73%  	
 
-### Jekyll Themes
+Certifications
+Red Hat Certified System Engineer (RHCE) ID-130-203-615 	 		2013
+Red Hat Certified System Administrator (RHCSA) ID-130-203-615 	 	2013
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rosawant/practice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Personal Details:
 
-### Support or Contact
+Address: At: Gorala
+ 	Tq: Morshi,Dist: Amravati
+	Pin : 444901
+DOB:	04/02/1992
+Marital Status: Single
+Languages: English, Hindi,Marathi
+Nationality : Indian
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Signature,									
+Roshan S. Sawant
